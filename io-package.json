@@ -1,8 +1,12 @@
 {
     "common": {
         "name":                     "vuplus",
-        "version":                  "0.1.0",
+        "version":                  "0.1.1",
         "news": {
+            "0.1.1": {
+                "en": "Ready for Admin3",
+                "de": "Vorbereitet für Admin3"
+            },
             "0.1.0": {
                 "en": "initial commit",
                 "de": "Erste Version",
