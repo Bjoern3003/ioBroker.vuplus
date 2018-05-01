@@ -23,6 +23,7 @@
         "license":                  "MIT",
         "mode":                     "daemon",
         "icon":                     "vuplus.png",
+        "materialize":              true,
         "extIcon":                  "https://raw.githubusercontent.com/vader722/ioBroker.vuplus/master/admin/vuplus.png",
         "loglevel":                 "info",
         "type":                     "multimedia"
